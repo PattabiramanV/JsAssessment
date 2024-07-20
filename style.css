@@ -29,3 +29,9 @@ gap: 2%;
     background-color: skyblue;
 }
 
+form{
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px gray;
+   /* background-color: lavender; */
+}
