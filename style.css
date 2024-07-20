@@ -1,0 +1,31 @@
+.tabeldiv{
+    max-height: 400px; /* Set the maximum height for the table container */
+        overflow-y: auto;
+        margin-bottom: 10px;
+}
+.highestproduct {
+  margin-top: 20px;
+width: 80%;
+margin: 0 auto;
+gap: 2%;
+}
+
+.highestproduct > * {
+    margin-top: 10px;
+    width: 31%;
+    border-left: 5px solid rgb(0, 17, 255); 
+   
+}
+
+.twobtn {
+    margin-top: 10px;
+    margin: 0 auto;
+    width: 36%;
+}
+
+
+#updateproduct{
+
+    background-color: skyblue;
+}
+
